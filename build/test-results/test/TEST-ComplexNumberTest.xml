@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComplexNumberTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-10-02T08:13:26" hostname="MacBook-Pro-Hose.local" time="0.023">
+  <properties/>
+  <testcase name="[1] 3.0-4.0i, 5.0" classname="ComplexNumberTest" time="0.012"/>
+  <testcase name="[2] +3.0i, 3.0" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[1] 23.0+1.0i, 2.0+1.0i, 9.4-4.2i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[2] 2.0+7.0i, 10.0i, 0.2+0.7i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[1] 52.0+48.0i, 17.0+78.0i, 69.0+126.0i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[2] 2.0-3.0i, -5.0+4.0i, -3.0+1.0i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[1] 52.0+48.0i, 17.0+78.0i, 35.0-30.0i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[2] 2.0-3.0i, -5.0+4.0i, 7.0-7.0i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[1] 7.0+3.0i, 5.0-8.0i, 59.0-41.0i" classname="ComplexNumberTest" time="0.0"/>
+  <testcase name="[2] -10.0-4.0i, 8.0+1.0i, -76.0-42.0i" classname="ComplexNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
